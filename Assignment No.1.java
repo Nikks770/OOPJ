@@ -18,6 +18,6 @@ public class SumOrDouble {
     }
 }
 // Output: 
-// Enter the first number: 4
-// Enter the second number: 4
-// The sum of the two numbers is: 8
+// Enter the first number: 5
+// Enter the second number: 6
+// The sum of the two numbers is: 11
